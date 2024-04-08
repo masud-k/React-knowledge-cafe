@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.pinimg.com/564x/f9/b5/06/f9b50630ff3a81b91fbd962cae737f82.jpg",
+      "title": "The Adventure Begins",
+      "author_name": "John Smith",
+      "author_img": "https://i.ibb.co/5xrMQ9k/profile.png",
+      "piblish_day": "5 mar, 2016",
+      "reading_time": 15 ,
+      "hashtag": "#adventure #fiction"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.pinimg.com/564x/00/9f/94/009f94756935fac569f9a0dbb9bbefb2.jpg",
+      "title": "Cooking Mastery",
+      "author_name": "Alice Johnson",
+      "author_img": "https://i.ibb.co/5xrMQ9k/profile.png",
+      "piblish_day": "6 mar, 2016",
+      "reading_time": 20,
+      "hashtag": "#cooking #recipes"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.pinimg.com/564x/77/5e/26/775e260af09a4023bf4caf8ac73a7033.jpg",
+      "title": "The Art of Photography",
+      "author_name": "David Lee",
+      "author_img": "https://i.ibb.co/5xrMQ9k/profile.png",
+      "piblish_day": "8 mar, 2016",
+      "reading_time": 25 ,
+      "hashtag": "#photography #art"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.pinimg.com/564x/3e/67/03/3e67035af0521bb6f5813a9e602e4b29.jpg",
+      "title": "Financial Freedom",
+      "author_name": "Emily Rogers",
+      "author_img": "https://i.ibb.co/5xrMQ9k/profile.png",
+      "piblish_day": "5 apr, 2017",
+      "reading_time": 30,
+      "hashtag": "#finance #investing"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.pinimg.com/564x/3f/63/bf/3f63bf5aa09f1ac8bd1335a2c034b8b3.jpg",
+      "title": "Mindfulness Meditation",
+      "author_name": "Michael Brown",
+      "author_img": "https://i.ibb.co/5xrMQ9k/profile.png",
+      "piblish_day": "5 may, 2018",
+      "reading_time": 10 ,
+      "hashtag": "#meditation #mindfulness"
+    }
+  ]
+  
