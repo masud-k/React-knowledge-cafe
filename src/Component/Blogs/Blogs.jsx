@@ -18,7 +18,7 @@ const Blogs = ({handleAddToBookmark, handleMarkRead}) => {
             <h2 className="text-4xl m-5">Blogs: {blogs.length}</h2>
             {
                 blogs.map(blog => <Blog
-                    key={blog}
+                    key={blog.id}
                     blog={blog}
                     handleAddToBookmark={handleAddToBookmark}
                     handleMarkRead={handleMarkRead}
